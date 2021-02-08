@@ -1,10 +1,11 @@
-package com.openpix.logutils;
+package com.qjkj.logutils;
 
 import android.os.Environment;
 import android.util.Log;
 
-import com.openpix.logutils.utils.CloseUtils;
-import com.openpix.logutils.utils.Utils;
+
+import com.qjkj.logutils.utils.CloseUtils;
+import com.qjkj.logutils.utils.Utils;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -17,7 +18,7 @@ import java.util.Locale;
 
 
 /**
- * Copyright (C), 2020-2020, openpix
+ * Copyright (C), 2020-2020, openqjkj
  * Author: pix
  * Date: 20-4-10 下午5:09
  * Version: 1.0
@@ -28,7 +29,7 @@ import java.util.Locale;
  */
 public class LogUtils {
     private static final String TAG = "LogUtils";
-    private static final String COMPANY_NAME = "openpix";
+    private static final String COMPANY_NAME = "qjkj";
     private static final String APP_NAME     = "log";
 
     public static final  String BASE_PATH   = COMPANY_NAME + File.separator + APP_NAME + File.separator;

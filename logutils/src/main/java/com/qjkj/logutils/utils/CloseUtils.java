@@ -1,4 +1,4 @@
-package com.openpix.logutils.utils;
+package com.qjkj.logutils.utils;
 
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;

@@ -1,4 +1,4 @@
-package com.openpix.logutils
+package com.qjkj.oplogutils
 
 import org.junit.Test
 

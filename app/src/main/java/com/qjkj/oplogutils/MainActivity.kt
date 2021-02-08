@@ -1,8 +1,8 @@
-package com.openpix.oplogutils
+package com.qjkj.oplogutils
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.openpix.logutils.LogUtils
+import com.qjkj.logutils.LogUtils
 
 class MainActivity : AppCompatActivity() {
     val TAG = "MainActivity"

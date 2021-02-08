@@ -1,4 +1,4 @@
-> openpix/logutils
+> qjkj/logutils
 
 # logutils
 
@@ -10,7 +10,7 @@
 
 在`app`的`build.gradle`中加入引用
 ```
-    implementation 'com.openpix:logutils:1.0.0'
+    implementation 'com.qjkj:logutils:1.0.0'
 ```
 
 在`AndroidManifest.xml`中加入权限
@@ -22,7 +22,7 @@
 
 # 2.日志文件存储路径
 
-默认的存储路径是`/mnt/sdcard/openpix/log/yyyy-MM-dd.txt`
+默认的存储路径是`/mnt/sdcard/qjkj/log/yyyy-MM-dd.txt`
 
 设置日志文件路径
 

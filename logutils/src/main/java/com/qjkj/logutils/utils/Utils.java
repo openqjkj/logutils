@@ -1,4 +1,4 @@
-package com.openpix.logutils.utils;
+package com.qjkj.logutils.utils;
 
 import java.io.File;
 
